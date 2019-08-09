@@ -5,7 +5,8 @@ Utilising Docker on macOS or Windows within your local development enviroment is
 
 With `docker-sync` you can experince native-like file sync speeds when utilising Docker in your local devlopment enviroment. Allowing your applications to run at full speed on macOS or Windows 🚀
 
-Anything else under [http://docker-sync.io](http://docker-sync.io) or the [documentation](https://docker-sync.readthedocs.io/en/latest/index.html#)
+## Documentation
+📝[https://docker-sync.readthedocs.io](https://docker-sync.readthedocs.io)
 
 ## But why is Docker slow?
 The problem is incompatability. Docker is built on Linux, this is great for many reasons and when running Docker on Linux, your development files can be synced between your containers and local filesystem natively. Things are always fast!
