@@ -5,6 +5,8 @@ Utilising Docker on macOS or Windows within your local development enviroment is
 
 With `docker-sync` you can experince native-like file sync speeds when utilising Docker in your local devlopment enviroment. Allowing your applications to run at full speed on macOS or Windows 🚀
 
+Anything else under [http://docker-sync.io](http://docker-sync.io) or the [documentation](https://docker-sync.readthedocs.io/en/latest/index.html#)
+
 ## But why is Docker slow?
 The problem is incompatability. Docker is built on Linux, this is great for many reasons and when running Docker on Linux, your development files can be synced between your containers and local filesystem natively. Things are always fast!
 
@@ -12,19 +14,24 @@ But unfortunately both macOS and Windows don't provide a native Linux kernel for
 
 Under certian workloads Docker can become incredible slow when syncing file changes. This is not a trivial issue to fix and slow sync speeds continue to plague Vagrant and Virtualbox just the same.
 
-## Supporting docker-sync
-
+## How to Contribute
     Thank you for all the feedback and support i already received!
     Docker-sync has been improved by all of you in huge ways!
+Wheather you can help us fix bugs, improve documentation or work on new features, if you are eager to help and improve docker-sync we'd love to have you as part of the community!
 
-If you are eager to help and improve docker-sync
- - Help [here](https://github.com/EugenMayer/docker-sync/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) if you are a coder
- - Help [here](https://github.com/EugenMayer/docker-sync/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22help%20wanted%22%20%20label%3A%22documentation%22%20) with the docs no matter what skill set you have
+You can check out our [Contributing Guide]()
+ - If you're a coder you can find issues that need help [here](https://github.com/EugenMayer/docker-sync/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+ - Want to help imrpove the docs? We'd love your help, no matter what skill set you have. You can find issues with Documentation [here](https://github.com/EugenMayer/docker-sync/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22help%20wanted%22%20%20label%3A%22documentation%22%20)
 
+### Support docker-sync
+`docker-sync` is an independent and community-driven. Ongoing development is made possible by the support of our awesome backers. Use `docker-sync` in your dev enviroment? If you can pledge a little, or even a lot, please consider supporting the project on patreon. Everything goes a little way towards keeping the project maintained.
 
-Anything else under [http://docker-sync.io](http://docker-sync.io) or the [documentation](https://docker-sync.readthedocs.io/en/latest/index.html#)
+- [Become a sponsor on Patreon](https://www.patreon.com/eugenmayer/overview)
 
-Main Contributors:
+## Contributors
+A massive thanks to our contributors and Sponsors
+
+### Main Contributors
  - [ignatiusreza](https://github.com/ignatiusreza)
  - [michaelbaudino](https://github.com/michaelbaudino)
  - [mickaelperrin](https://github.com/mickaelperrin)
