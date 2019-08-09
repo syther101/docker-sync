@@ -25,12 +25,12 @@ You can check out our [Contributing Guide]()
  - Want to help improve the docs? We'd love your help, no matter what skill set you have. You can find issues with Documentation [here](https://github.com/EugenMayer/docker-sync/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22help%20wanted%22%20%20label%3A%22documentation%22%20)
 
 ### Support docker-sync
-`docker-sync` is an independent and community-driven. Ongoing development is made possible by the support of our awesome backers. Use `docker-sync` in your dev enviroment? If you can pledge a little, or even a lot, please consider supporting the project on patreon. Everything goes a little way towards keeping the project maintained.
+`docker-sync` is an independent and community-driven project. Ongoing development is made possible by the support of our awesome backers. Use `docker-sync` in your dev enviroment? If you can pledge a little, or even a lot, please consider supporting the project on patreon. Everything goes a little way towards keeping the project maintained.
 
 - [Become a sponsor on Patreon](https://www.patreon.com/eugenmayer/overview)
 
 ## Contributors
-A massive thanks to our contributors and Sponsors
+A massive thanks to our awesome contributors.
 
 ### Main Contributors
  - [ignatiusreza](https://github.com/ignatiusreza)
