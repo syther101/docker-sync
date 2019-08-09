@@ -18,9 +18,8 @@ The overhead caused by syncing file changes can cause Docker to become incredibl
 ## How to Contribute
     Thank you for all the feedback and support i already received!
     Docker-sync has been improved by all of you in huge ways!
-Wheather you can help us fix bugs, improve documentation or work on new features, if you are eager to help and improve docker-sync we'd love to have you as part of the community!
+Wheather you can help us fix bugs, improve documentation or work on new features, if you are eager to help and improve docker-sync we'd love to have you as part of the community! Please take a read of our [Contributing Guide]().
 
-You can check out our [Contributing Guide]()
  - If you're a coder you can find issues that need help [here](https://github.com/EugenMayer/docker-sync/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
  - Want to help improve the docs? We'd love your help, no matter what skill set you have. You can find issues with Documentation [here](https://github.com/EugenMayer/docker-sync/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22help%20wanted%22%20%20label%3A%22documentation%22%20)
 
