@@ -13,7 +13,7 @@ The problem is incompatability. Docker is built on Linux, this is great for many
 
 But unfortunately both macOS and Windows don't provide a native Linux kernel for Docker to run on. So Docker will run your containers inside a small Linux virtual machine. For Docker to keep your code / files in sync with the containers inside, tooling is required to sync file changes between your local filesystem (macOS/Windows) and the Docker virtual machine (Linux).
 
-Under certian workloads Docker can become incredible slow when syncing file changes. This is not a trivial issue to fix and slow sync speeds continue to plague Vagrant and Virtualbox just the same.
+The overhead caused by syncing file changes can cause Docker to become incredible slow when executing code under certian workloads. This is not a trivial issue to fix and slow sync speeds continue to plague Vagrant and Virtualbox just the same.
 
 ## How to Contribute
     Thank you for all the feedback and support i already received!
